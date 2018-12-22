@@ -1,0 +1,7 @@
+* Introduction - a Tousr of Multiple View Geometry
+- Coordinates
+A point in Euclidean 2-space is repressented by an ordered pair of real numbers, (x,y). 
+- Homogeneous coordinates
+Given a coordinate triple (kx, ky,k), we can get the original coordinates back by dividing by k to get (x,y).
+- Homogeneous Vectors
+The Euclidean space  $IR^{n}$ can be extented to a projective space $IP^{n}$ by representing points as homogeneous vectors. It turns out that the points at infinity in the two-dimensional projective space form a line, usually called the /line at infinity/. In three-dimensions they form the plane at infinity.

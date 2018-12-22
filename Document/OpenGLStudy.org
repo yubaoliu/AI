@@ -1,0 +1,26 @@
+* Getting Started
+** Creating a Window
+*** GLFW
+- Introduction
+GLFW := the OpenGL Extension Wrangler
+
+GLFW is a library, written is C, specifically targeted at OpenGL provideing the bare necessities reqired for rendering goodies to the screen. It allows us to create and OpenGL context, define window parameters and handle user input which is all the we need.
+
+- install in Linux (Ubuntu)
+sudo apt-get install libglfw3-dev
+
+- Download source code or precompiled binary package
+GLFW can be obtained from their webpage's [[http://www.glfw.org/download.html][download]] page.
+
+- How to configure Visual Studion
+We find the /lib and /include folders of the IDE/Compiler and add the content of GLFW's include folder to the IDE's /include folder and similarly add glfw3.lib to the IDE's /lib folder. This works, but this is not the recommended approach. It's hard to keep track of your library/include files and a new installation of your IDE/Compiler will result in lost files
+
+refer to [[https://learnopengl.com/#!Getting-started/Creating-a-window][configure-VS
+]]
+* Reference
+- [[https://learnopengl.com/][Learnopengl-English]]
+- [[https://learnopengl-cn.github.io][learnopengl-Chinese]]
+- [[http://www.glfw.org/download.html][download-GLFW]]
+
+
+

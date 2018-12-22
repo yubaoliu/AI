@@ -9,9 +9,10 @@ data: 2018-12-08
 3. Tensorflow
 
 
-# Source Code
-## Tensorflow
-### HelloWorld.ipynb
+# Course - [人工智能——机器视觉及图像识别](https://www.bilibili.com/video/av33208345/?p=1)
+
+
+## HelloWorld.ipynb
 Function: test tensorflow and OpenCV
 ```Python
 # Test tensorflow
@@ -26,6 +27,15 @@ import cv2
 print('Hello Opencv')
 
 ```
+## Image read
+```python2
+
+
+```
+
+
+
+
 
 # Study Resources
 1. [人工智能——机器视觉及图像识别](https://www.bilibili.com/video/av33208345/?p=1)
