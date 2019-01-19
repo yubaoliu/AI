@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca1c8893-f77d-4a63-b14c-87b77f19536b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/tree0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/numpy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/numpy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/01-Image_Read_Show.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/02-Image_Write.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/03-Image_Quality.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/04-Pixel_Read_Write.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/10-numpy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/11-matplotlib.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tensorflow/12-image-sesize.ipynb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/BGR2Gray_Pixel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Change_Color_Style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/ColorImage_ColorInvert..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Embossing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Frosted_Glass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Image_Fusion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Mosaic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Oil_painting_effect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Sobel_Algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/cvtColor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Source.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Source.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/numpy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDataVisualization/numpy/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +33,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_scale.py">
+        <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Sobel_Algorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="true" selection-end-line="29" selection-end-column="14" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#1#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Embossing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="e#1#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Change_Color_Style.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="e#1#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py">
+        <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Oil_painting_effect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="328">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -76,14 +109,30 @@
         <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/15-ImageShift.py" />
         <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_scale.py" />
         <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_rotation.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/imageGray.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/RGB2Gray.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/cvtColor.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/BGR2Gray_Pixel.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/ColorInvert.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/ColorImage_ColorInvert..py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Mosaic.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Frosted_Glass.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Image_Fusion.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/EdgeDetection.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Canny_EdgeDetection.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Sobel_Algorithm.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Embossing.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Change_Color_Style.py" />
+        <option value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Oil_painting_effect.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1745" />
-    <option name="y" value="135" />
-    <option name="width" value="1551" />
-    <option name="height" value="1085" />
+    <option name="x" value="1665" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1204" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -111,11 +160,6 @@
             <path>
               <item name="Source" type="b2602c69:ProjectViewProjectNode" />
               <item name="Source" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonDataVisualization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Source" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Source" type="462c0819:PsiDirectoryNode" />
               <item name="Tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -126,8 +170,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Mosaic.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -157,8 +201,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="AffineTransform" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Oil_painting_effect">
+    <configuration name="Canny_EdgeDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATh" value="/usr/local/lib/python3.5/dist-packages" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Canny_EdgeDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Change_Color_Style" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATh" value="/usr/local/lib/python3.5/dist-packages" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Change_Color_Style.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Embossing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATh" value="/usr/local/lib/python3.5/dist-packages" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Embossing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mosaic" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Source" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +281,51 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Mosaic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Oil_painting_effect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATh" value="/usr/local/lib/python3.5/dist-packages" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Oil_painting_effect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sobel_Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATh" value="/usr/local/lib/python3.5/dist-packages" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ImageProcess_OpenCV/Sobel_Algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +342,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="PYTHONPATh" value="/usr/local/lib/python3.5/dist-packages" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="SDK_HOME" value="/usr/bin/python3" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -202,6 +356,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Mosaic" />
+      <item itemvalue="Python.Canny_EdgeDetection" />
+      <item itemvalue="Python.Sobel_Algorithm" />
+      <item itemvalue="Python.Embossing" />
+      <item itemvalue="Python.Change_Color_Style" />
+      <item itemvalue="Python.Oil_painting_effect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Oil_painting_effect" />
+        <item itemvalue="Python.Change_Color_Style" />
+        <item itemvalue="Python.Embossing" />
+        <item itemvalue="Python.Sobel_Algorithm" />
+        <item itemvalue="Python.Canny_EdgeDetection" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -217,10 +388,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1664" y="-11" width="1857" height="1212" extended-state="6" />
+    <frame x="1665" y="-4" width="1855" height="1204" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18131565" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18352681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,13 +415,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tensorflow/12-image-sesize.py" />
     <entry file="file://$PROJECT_DIR$/Tensorflow/Bilinear_interpolation.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1247971764/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="2443" column="4" selection-start-line="2443" selection-start-column="4" selection-end-line="2443" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1247971764/numpy/core/multiarray.py" />
     <entry file="file://$PROJECT_DIR$/Tensorflow/13-Bilinear_interpolation.py" />
     <entry file="file://$PROJECT_DIR$/Tensorflow/14-ImageCrop.py" />
     <entry file="file://$PROJECT_DIR$/Tensorflow/12-image-resize.py" />
@@ -271,20 +436,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_scale.py">
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/AffineTransform.py">
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/imageGray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="72">
+          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/image_scale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/RGB2Gray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="22" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1247971764/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="4080" column="22" selection-start-line="4080" selection-start-column="18" selection-end-line="4080" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/BGR2Gray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/BGR2Gray_imread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/BGR2Gray_Pixel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/ColorInvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/GrayImage_ColorInvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" lean-forward="true" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/ColorImage_ColorInvert..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Mosaic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Frosted_Glass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="14" lean-forward="true" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Image_Fusion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/EdgeDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/cvtColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Canny_EdgeDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Sobel_Algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="true" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Embossing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Change_Color_Style.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_ImageProcess_OpenCV/Oil_painting_effect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
