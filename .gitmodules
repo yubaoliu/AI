@@ -1,0 +1,12 @@
+[submodule "submodule/Hvass-Labs-TensorFlow-Tutorials"]
+	path = submodule/Hvass-Labs-TensorFlow-Tutorials
+	url = https://github.com/Hvass-Labs/TensorFlow-Tutorials.git
+[submodule "submodule/Tianxiaomo-tensorflow_notebook"]
+	path = submodule/Tianxiaomo-tensorflow_notebook
+	url = https://github.com/Tianxiaomo/tensorflow_notebook.git
+[submodule "submodule/mrgloom-awesome-semantic-segmentation"]
+	path = submodule/mrgloom-awesome-semantic-segmentation
+	url = https://github.com/mrgloom/awesome-semantic-segmentation.git
+[submodule "submodule/MorvanZhou-PyTorch-Tutorial"]
+	path = submodule/MorvanZhou-PyTorch-Tutorial
+	url = https://github.com/MorvanZhou/PyTorch-Tutorial
